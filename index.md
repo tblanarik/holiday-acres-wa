@@ -1,5 +1,3 @@
-# Hello World
+# Welcome
 
-This is some test content
-
-## Test Header 2
+This site serves as an information source for the Holiday Acres community in Olympia, WA.
